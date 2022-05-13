@@ -1,0 +1,43 @@
+li{
+  font-size: 30px;
+  border-radius: 20px;
+}
+body{
+  background-color: black;
+}
+h1{
+  font-size: 50px;
+  
+}
+.navbar-brand{
+  font-size: 40px;
+}
+h2{
+  font-size:40px
+}
+#Swimming{
+  background-color: lightskyblue;
+  color: black;
+  border: 1px 1px solid white;
+  border-radius: 20px;
+}
+#Baking{
+  background-color:bisque;
+  border: 1px 1px solid white;
+  border-radius: 20px;
+}
+#Chess{
+  background-color:gainsboro;
+  border: 1px 1px solid white;
+  border-radius: 20px;
+}
+#Dancing{
+background-color:lawngreen;
+border: 1px 1px solid white;
+  border-radius: 20px;
+}
+#Art{
+background-color: orange;
+border: 1px 1px solid white;
+  border-radius: 20px;
+}
